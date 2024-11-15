@@ -1,9 +1,11 @@
 Sno.   Experiment Name
 
 1 a) To perform the basic operations on the Fuzzy sets.
-  b) To perform Max-Min composition and Max-Product on given two fuzzy sets
+
+   b) To perform Max-Min composition and Max-Product on given two fuzzy sets
 
 2 To design a fuzzy control system.
+
 3 To perform basic operations on NumPy arrays & matrices
 
 4 Implement logic gates AND, OR, NOR, NAND, XOR, and XNOR using perceptron
